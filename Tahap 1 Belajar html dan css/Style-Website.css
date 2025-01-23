@@ -1,0 +1,225 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: JUDULFONT;
+    src: url(fonts/Judul.otf);
+}
+
+
+.logo {
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    background-color: 8174A0;
+    list-style-type: none;
+    height: 20px;
+}
+
+.YT {
+    float: left;
+    margin-top: 10px;
+    margin-left: 30px;
+    width: 85px;
+    height: 30px;
+}
+
+.YT:hover{
+    background-color: C8AAAA;
+    border-radius: 5px;
+    height: 30px;
+}
+
+.div-1 {
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    background-color: 8174A0;
+    list-style-type: none;
+}
+
+.ul-1 {
+    font-family:monospace;
+    display: flex;
+    height: 50px;
+    list-style-type: none;
+    float: right;
+    margin-right: 100px;
+    font-size: 15px;
+}
+
+.li-1 {
+
+    padding: 10px;
+
+}
+
+.Home {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.li-1:hover {
+    background-color: C8AAAA;
+    font-size: 18px;
+    border-radius: 5px;
+    margin-bottom: 1000px;
+    height: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.li-2 {
+    padding: 10px;
+    list-style-type: none;
+}
+
+.li-2:hover {
+    background-color: C8AAAA;
+    font-size: 18px;
+    border-radius: 5px;
+    height: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.signup {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.li-3 {
+    padding: 10px;
+}
+
+.li-3:hover {
+    background-color: C8AAAA;
+    font-size: 18px;
+    border-radius: 5px;
+    height: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.Contact {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.Login {
+    padding: 10px;
+}
+
+.UserLogin {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #00000085;
+    margin: auto;
+    text-align: center; 
+    border-radius: 3px;
+    padding: 0.5em 0.8em 0.8em 0.5em;*/
+}
+
+.div-2 {
+    background-color: 8174A0;
+    height: 80vh;
+}
+
+.LinkHP {
+}
+
+
+.HP {
+    height: 90%;
+    width: 400px;
+    float: left;
+    margin-left: 200px;
+}
+
+.li-4 {
+    float: left;
+    margin-top: 130px;
+    margin-left: 100px;
+    list-style-type: none;
+    font-family: JUDULFONT;
+}
+
+.judul {
+    font-size:40px;
+    color: #ffffff;
+    text-shadow: 3px 3px #000000;
+}
+
+.li-5 {
+    display: flex;
+    float: left;
+    margin-top: 10px;
+    margin-right: 150px;
+    margin-left:100px;
+    list-style-type: none;
+}
+
+.isiweb {
+    font-size: 13px;
+    font-family: sans-serif;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 500px;
+    color: #ffffff;
+    text-shadow: 2px 2px #0000007a;
+    
+}
+
+.daun {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    height: 50vh;
+    margin-left: 700px;
+    margin-bottom: 100px;
+}
+
+.div-3{
+    background-color: #8f84aa;
+    height: 82px;
+    border-top: 01px double #ffffff;
+}
+
+.ul-2 {
+    font-size: 10px;
+    color: #ffffff ;
+    margin-left: 10px;
+    list-style-type: none;
+    margin-top: 5px;
+}
+
+.instagram {
+    height: 10px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.imgig {
+    height: 15px;
+}
+
+.X {
+    height: 15px;
+}
+
+.discord {
+    height: 11px;
+}
+
+.li-6 {
+    margin-top: 5px;
+}
